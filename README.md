@@ -1,3 +1,6 @@
+How to run it :
+Please do not forget to change url for your using at client.py.Make sure to install all necessary python packages with pip,thanks.
+
 Hello dear python dev!
 
 This repository is supposed to act as a playground for your submission.
@@ -82,6 +85,5 @@ print(response.text)
 
 
 
-How to run it :
-Please do not forget to change url for your using at client.py.Make sure to install all necessary python packages with pip,thanks.
+
 ```
